@@ -128,7 +128,7 @@
 	<haxelib name="faxe" if='switch'/>
 	<!--<haxelib name="polymod"/> -->
 	<haxelib name="discord_rpc" if="desktop"/>
-        <haxelib name="extension-webview" if="VIDEOS_ALLOWED android"/>
+        <haxelib name="extension-videoview" if="VIDEOS_ALLOWED android"/>
         <haxelib name="AndroidTools" if="android"/>
 	<!-- <haxelib name="hxcpp-debug-server" if="desktop"/> -->
 
